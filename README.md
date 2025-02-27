@@ -1,7 +1,3 @@
-Here is your translated text:  
-
----
-
 # Welcome to the **Spotify Clone** Repository  
 A modern and interactive replica of Spotify. Built with **HTML, CSS, JavaScript, and the React framework**, this project delivers an immersive music playback experience, featuring album navigation, custom playlists, and playback controls.  
 
@@ -70,4 +66,4 @@ src/
 <img src="/photos/MusicPage.png" alt="Search Page" width="600"/>  
 
 ## © License  
-This project is for educational purposes only and is not affiliated with Spotify.
+This project is licensed under the MIT License. See the LICENSE file for more details.
